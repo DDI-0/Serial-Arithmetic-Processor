@@ -7,3 +7,5 @@ State Generator\
 Control Circuit\
 Data Path Table:\
 ![image](https://github.com/DDI-0/Serial-Arithmetic-Processor-Unit/assets/136271811/f12ec56c-91da-44c9-8e36-299c05e81b12)
+What each Opcode does:\
+![image](https://github.com/DDI-0/Serial-Arithmetic-Processor-Unit/assets/136271811/52bf7685-9ac7-423e-bcfd-ab930969d61a)
